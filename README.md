@@ -4,7 +4,7 @@ Este proyecto implementa funciones de procesamiento de datos y representación g
 
 ## Estructura del Proyecto
 
-- **Notebook**: El archivo principal del proyecto es un Jupyter Notebook que incluye las implementaciones de las funciones de procesamiento de imágenes. Este notebook está diseñado para ejecutarse con dependencias de PyTorch y NumPy, y realiza análisis, transformaciones y visualizaciones de las imágenes.
+- **Notebook**: El archivo principal del proyecto es un Jupyter Notebook que incluye las implementaciones de las funciones de procesamiento de imágenes. 
 
 - **Dependencias**: Este proyecto utiliza PyTorch para la creación de tensores y operaciones de redes neuronales, y NumPy para la manipulación de datos. 
 
@@ -16,4 +16,4 @@ Cada imagen en el proyecto cuenta con archivos correspondientes de "intrinsics" 
 
 - **Intrinsics**: Define los parámetros internos de la cámara para cada imagen. Estos parámetros suelen incluir la distancia focal y el punto principal en la imagen.
 
-- **Pose**: Define la orientación de la cámara en el espacio tridimensional y su posición relativa a un sistema de referencia. Estos datos son fundamentales para establecer el contexto y las coordenadas espaciales de cada imagen, lo que es crucial para el procesamiento y análisis en tareas de visión por computadora o en modelos de aprendizaje profundo.
+- **Pose**: Define la orientación de la cámara en el espacio tridimensional y su posición relativa a un sistema de referencia.
