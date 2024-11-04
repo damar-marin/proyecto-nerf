@@ -1,6 +1,6 @@
 # Proyecto de Procesamiento de Imágenes con NeRF
 
-Este proyecto implementa funciones de procesamiento de datos y representación gráfica utilizando NeRF (Neural Radiance Fields), PyTorch, NumPy y otras dependencias en un entorno Jupyter Notebook. Está diseñado para trabajar con un conjunto de imágenes y sus respectivos archivos de parámetros de cámara, que incluyen matrices de "intrinsics" y "pose". Estos archivos contienen datos importantes sobre la configuración y orientación de la cámara para cada imagen.
+Este proyecto implementa funciones de procesamiento de datos y representación gráfica utilizando NeRF (Neural Radiance Fields), PyTorch, NumPy y otras dependencias en un entorno Jupyter Notebook. Su objetivo es predecir cómo se vería un objeto desde distintas perspectivas basándose en imágenes de entrada y parámetros de cámara. El proyecto está diseñado para trabajar con un conjunto de imágenes y sus respectivos archivos de parámetros de cámara, que incluyen matrices de "intrinsics" y "pose". Estos archivos contienen datos importantes sobre la configuración y orientación de la cámara para cada imagen.
 
 ## Estructura del Proyecto
 
